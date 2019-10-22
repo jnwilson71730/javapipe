@@ -1,4 +1,4 @@
-
+[![Build Status](https://murphyusa.visualstudio.com/CloudPlatform/_apis/build/status/jnwilson71730.javapipe?branchName=master)](https://murphyusa.visualstudio.com/CloudPlatform/_build/latest?definitionId=93&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
